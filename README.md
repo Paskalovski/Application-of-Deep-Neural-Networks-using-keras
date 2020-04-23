@@ -1,8 +1,8 @@
-Application of Deep Neural Networks - using keras 
+### Application of Deep Neural Networks - using keras 
 
 - Constructing and applying a deep neural network to predict types of customers that leave the Bank.
 
-Application content:
+#### Application content:
 - importing the dataset
 - preprocessing the dataset
 - Encoding the categorical data
