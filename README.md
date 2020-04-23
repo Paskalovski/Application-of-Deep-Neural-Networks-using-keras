@@ -1,4 +1,4 @@
-### Application of Deep Neural Networks - using keras 
+### Application of Deep Neural Networks - using tensorflow keras 
 
 - Constructing and applying a deep neural network to predict types of customers that are most common to leave the Bank.
 
